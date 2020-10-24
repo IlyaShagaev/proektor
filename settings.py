@@ -1,0 +1,4 @@
+BOT_TOKEN = '1299946940:AAGQ9aQj-Cb01sqEA0f6ITfwMaSmJBezssg'
+
+MQTT_SERVER = 'mqtt.eclipse.org'
+MQTT_PORT = 1883
